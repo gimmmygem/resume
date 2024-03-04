@@ -34,7 +34,7 @@ export const Info: React.FC = () => {
         <div>
           <p>
             Intuitive problem solver and creative thinker -- demonstrated
-            success in content delivery for ground-breaking projects and empowering others to thrive in their work.
+            success in delivering ground-breaking projects and empowering others to thrive in their work.
           </p>
         </div>
       </section>
