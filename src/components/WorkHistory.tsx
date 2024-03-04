@@ -46,39 +46,42 @@ export const WorkHistory: React.FC<Props> = (props) => {
 
 const ROLES: Role[] = [
   {
-    title: "Technical Lead",
-    employer: "Phoria",
-    start: "August 2022",
-    end: "Present",
+    title: "Web Designer (Contract)",
+    employer: "Avivo Australia",
+    start: "Dec 2023",
+    end: "Feb 2024",
     description:
-      "Lead of development team for the CAPTUR3D platform. Managing and ensuring delivery of technical goals for the platform, including paying down technical debt and ensuring sustainable development practises.",
+      "Contracted to deliver a new website for Avivo Elite Tutoring using Wordpress CMS. Our main goals were to engage current and potential clients, and to create a responsive, optimised website that the internal team could manage efficiently moving forward.",
     responsibilities: [
-      "Setting and ensuring delivery of technical strategy to meet business goals",
-      "Overseeing management of feature delivery and platform maintenance",
-      "Ensuring strong development team performance via DORA metrics and OKRs",
-      "Supporting team professional development",
+      "Defining and delivering website, SEO & SEM strategy to meet business goals",
+      "Concepting original website design and creating flexible webpage templates",
+      "Establishing and maintaining responsive design standards",
+      "Copywriting based on established brand guidelines",
+      "Optimisation and QA testing across desktop, tablet and mobile",
+      "Upskilling Avivo team in ongoing website content management",
     ],
   },
   {
-    title: "Senior Software Engineer",
-    employer: "Phoria",
-    start: "August 2020",
-    end: "August 2022",
+    title: "Digital Content & Marketing Consultant (Contract)",
+    employer: "AirMentor",
+    start: "Aug 2023",
+    end: "Dec 2023",
     description:
-      "Full stack developer working with Ruby on Rails, Typescript and React. ",
+      "Platform development and go-to-market strategy for new digital mentoring marketplace.",
     responsibilities: [
-      "Leading feature delivery",
-      "Incidence response and mitigations",
-      "Developer tooling improvements to support effecient development practices",
-      "Devops and IaC using AWS, Pulumi and Cloudflare",
-      "Mentoring mid and junior developers",
+      "Working with Founder & Director to develop AirMentor platform",
+      "Comprehensive process mapping",
+      "Researching and proposing solutions to meet business contraints",
+      "Recruitment strategy and developing internal training program 'MentorCheck'",
+      "Delivering platform shopfront using Shopify CMS",
+      "Building brand awareness with social media strategy",
     ],
   },
   {
-    title: "Software Engineer",
-    employer: "Bosch Australia",
-    start: "July 2019",
-    end: "August 2020",
+    title: "Communications Manager",
+    employer: "Phoria",
+    start: "Jan 2021",
+    end: "Aug 2023",
     description:
       "Full stack development for embedded linux devices and cloud applications for enabling connectivity in automated driving",
     responsibilities: [
@@ -88,10 +91,10 @@ const ROLES: Role[] = [
     ],
   },
   {
-    title: "Engineering Technologist",
-    employer: "Bosch Australia",
-    start: "March 2019",
-    end: "July 2019",
+    title: "Content Manager",
+    employer: "Phoria",
+    start: "Jan 2019",
+    end: "Jan 2021",
     description:
       "Full stack development for embedded linux devices and cloud applications for enabling connectivity in automated driving",
     responsibilities: [
@@ -101,10 +104,21 @@ const ROLES: Role[] = [
     ],
   },
   {
-    title: "Engineering Student",
-    employer: "Bosch Australia",
-    start: "July 2017",
-    end: "March 2019",
+    title: "Copywriter (Freelance)",
+    employer: "Phoria",
+    start: "Aug 2018",
+    end: "Jan 2019",
+    description: "Automated testing and quality assurance of IoT projects",
+    responsibilities: [
+      "Automating testing of hardware and software products using javascript and C#",
+      "Debugging issues in embedded linux devices",
+    ],
+  },
+  {
+    title: "Graduate Intern",
+    employer: "Script to Screen",
+    start: "Jan 2018",
+    end: "Aug 2018",
     description: "Automated testing and quality assurance of IoT projects",
     responsibilities: [
       "Automating testing of hardware and software products using javascript and C#",
