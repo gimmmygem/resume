@@ -9,9 +9,9 @@
   --body-margin: 0.5rem;
 
   --foreground: #121113;
-  --accent-primary: #222725;
-  --accent-secondary: #7b866e;
-  --accent-tertiary: #e4e6c3;
+  --accent-primary: #2f0755;
+  --accent-secondary: #a15beb;
+  --accent-tertiary: #8cfa60;
   --background: #f7f7f2;
 }
 
@@ -25,15 +25,15 @@
   }
 }
 
-/* @media screen and (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
   :root {
     --foreground: #f7f7f2;
-    --accent-primary: #e4e6c3;
-    --accent-secondary: #7b866e;
-    --accent-tertiary: #222725;
+    --accent-primary: #8cfa60;
+    --accent-secondary: #a15beb;
+    --accent-tertiary: #2f0755;
     --background: #121113;
   }
-} */
+}
 
 .screen-hidden {
   display: none;
