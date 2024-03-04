@@ -15,7 +15,7 @@ export default function Home() {
         <title>Resume | Gem Hannan</title>
         <meta
           name="description"
-          content="Professional Resume of Gem Hannan - Content Specialist."
+          content="Resume - Content Specialist & Web Designer | Gem Hannan."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
