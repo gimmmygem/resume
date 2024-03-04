@@ -1,11 +1,11 @@
 import "@/styles/globals.css";
 import { classes } from "@/utils";
 import type { AppProps } from "next/app";
-import { Fira_Code } from "next/font/google";
+import { Raleway } from "next/font/google";
 
 import styles from "@/styles/layout.module.css";
 
-const font = Fira_Code({ subsets: ["latin"] });
+const font = Raleway({ subsets: ["latin"] });
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
