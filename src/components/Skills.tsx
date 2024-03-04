@@ -5,7 +5,7 @@ import styles from "./Skills.module.css";
 
 export const DEFAULT_SKILLS: Section[] = [
   {
-    heading: "Languages",
+    heading: "Content & Marketing",
     items: [
       "Typescript",
       "Javascript",
@@ -19,11 +19,11 @@ export const DEFAULT_SKILLS: Section[] = [
     ],
   },
   {
-    heading: "Frameworks and Tools",
+    heading: "Web Design",
     items: ["NodeJS", "React", "Ruby on Rails", "PostgreSQL", "Three.js"],
   },
   {
-    heading: "DevOps",
+    heading: "Product",
     items: [
       "AWS",
       "Pulumi",

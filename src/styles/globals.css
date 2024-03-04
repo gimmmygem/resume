@@ -25,7 +25,7 @@
   }
 }
 
-@media screen and (prefers-color-scheme: dark) {
+/* @media screen and (prefers-color-scheme: dark) {
   :root {
     --foreground: #f7f7f2;
     --accent-primary: #e4e6c3;
@@ -33,7 +33,7 @@
     --accent-tertiary: #222725;
     --background: #121113;
   }
-}
+} */
 
 .screen-hidden {
   display: none;

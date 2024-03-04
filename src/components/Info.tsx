@@ -13,10 +13,10 @@ export const Info: React.FC = () => {
   return (
     <>
       <header>
-        <h1 className={styles.pageHeader}>Gemma Hannan</h1>
+        <h1 className={styles.pageHeader}>Gem Hannan</h1>
         <div className={styles.headerInfo}>
           <div className={styles.subtitle}>
-            Content Specialist | UX Content Designer
+            Content Specialist | Web Designer
           </div>
           <div className={styles.links}>
             <div className={styles.webLinks}>
@@ -33,7 +33,7 @@ export const Info: React.FC = () => {
       <section>
         <div>
           <p>
-            Driven professional problem solver with a proven track record of
+            Determined & intuitive problem solver with a proven track record of
             delivering successful projects and empowering teammates.
           </p>
         </div>

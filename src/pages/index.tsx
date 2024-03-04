@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Resume | Tyler Goodwin</title>
+        <title>Resume | Gem Hannan</title>
         <meta
           name="description"
-          content="Resume of Software Engineer and Technical Lead Tyler Goodwin."
+          content="Professional Resume of Gem Hannan - Content Specialist."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
