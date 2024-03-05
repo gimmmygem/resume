@@ -34,6 +34,7 @@ export const DEFAULT_SKILLS: Section[] = [
       "Hubspot CRM",
       "Mailchimp",
       "Zapier",
+      "Zendesk",
       "Hootsuite",
       "Semrush",
       "Meta Business Suite",
