@@ -121,11 +121,11 @@ const ROLES: Role[] = [
     employer: "Phoria / Captur3d",
     start: "Aug 2018",
     end: "Jan 2019",
-    description: "UI/UX copywriting and organic content creation across creative projects and digital twin SaaS platform.",
+    description: "UI/UX copywriting and content creation across creative projects and digital twin SaaS platform.",
     responsibilities: [
       "Supporting CEO and co-founders with UI/UX copywriting for AR and VR experiences",
       "Social media and original blog content to support new releases",
-      "Creation of brand strategy and messaging pillars for studio and SaaS platform",
+      "Creation of brand strategy and messaging pillars",
     ],
   },
   {
@@ -133,10 +133,11 @@ const ROLES: Role[] = [
     employer: "Script to Screen",
     start: "Jan 2018",
     end: "Aug 2018",
-    description: "Automated testing and quality assurance of IoT projects",
+    description: "Script writing for new film, television and web projects.",
     responsibilities: [
-      "Automating testing of hardware and software products using javascript and C#",
-      "Debugging issues in embedded linux devices",
+      "Writing and reviewing scripts",
+      "Storyline and character development",
+      "Pitching material creation",
     ],
   },
 ];
