@@ -39,7 +39,6 @@ export const DEFAULT_SKILLS: Section[] = [
       "Semrush",
       "Meta Business Suite",
       "Meta Events Manager",
-      "GA4",
     ],
   },
   {
