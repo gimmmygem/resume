@@ -33,7 +33,7 @@ export const Info: React.FC = () => {
       <section>
         <div>
           <p>
-            Intuitive problem solver and creative thinker -- demonstrated
+            Intuitive problem solver and creative thinker — demonstrated
             success in delivering ground-breaking projects and empowering others to thrive in their work.
           </p>
         </div>

@@ -4,40 +4,58 @@ import styles from "./Projects.module.css";
 
 const DEFAULT_PROJECTS = [
   {
-    heading: "Development of Technical Strategy for 2023-2025",
+    heading: "Raw: Emotions Unite Us",
     description:
-      "Worked closely with Phoria's Technical Director to set out technical vision and strategy for the next 3 years",
+      "Worked closely with Meta and International Paralympics Committee on Emmy nominated WebVR experience for the Tokyo Paralympic Games. 80,000+ users interacted with the experience with an average session time of over 5 minutes.",
     items: [
-      "Detailed resourcing, technical debt and key focus areas for the duration of the plan",
-      "Working with key stakeholders for implementation and delivery",
+      "Research, development and delivery of communications and marketing strategy",
+      "Collaborating with key Meta stakeholders on global marketing campaign",
+      "PR campaign with featured Para athletes",
+      "Award submissions and materials on behalf of project partners",
     ],
   },
   {
-    heading: "Migration to Docker",
+    heading: "Mt Resilience: WebXR Experience",
     description:
-      "Instrumental in leading team from AWS Elastic Beanstalk to a containerized ECS infrastructure",
+      "Lead producer for cutting-edge WebXR experience with ABC, CSIRO and Bureau of Meterology. Launched alongisde the ABC documentary series 'Big Weather (and how to survive it)'.",
     items: [
-      "No downtime during rollout",
-      "2hr deploys reduced to 5 minutes",
-      "Introduced team to Infrastructure as Code tooling using Pulumi",
+      "Project managed and delivered experience with rapid 6 month turnaround",
+      "Assisted spatial development team with client feedback and QA testing",
+      "Worked with lead ABC producers and 35+ scientists on UX narrative and voice-over scripts",
+      "Created pitching materials to gain internal ABC stakeholder buy-in",
     ],
   },
   {
-    heading: "Property Page Modernization",
+    heading: "CAPTUR3D Creator Studio & ARConnect",
     description:
-      "Setup and lead the replacement of a legacy UI with a brand new React Microfrontend",
+      "Lead content specialist on feature releases for CAPTUR3D SaaS platform and ARConnect app.",
     items: [
-      "Architected to be extensible and compatible with a SPA in the future",
-      "Allowed for opt in by customers for first 3 months after release",
+      "Worked closely with Tech Lead and Design Lead on Creator Studio feature development",
+      "Created brand and marketing strategy for ARConnect digital twin app",
+      "New pricing system development and implementation",
+      "Increased daily active providers with Hubspot CRM",
+      "Created CAPTUR3D Community Group and built following to 1.5k members",
     ],
   },
   {
-    heading: "Branded React Component Styleguide",
+    heading: "ecosphere VR Nature Series",
     description:
-      "Implemented initial styleguide components for re-use across the platform",
+      "Led global PR launch for the award winning 'ecosphere' series and subsequent VR nature film, Sea of Islands. Worked closely with project partners Meta, WWF, Silverback Films and the United Nations.",
     items: [
-      "Built as a standalone npm package using React Styleguidist",
-      "Enabled developers to spend less time reinventing the wheel and more time shipping features",
+      "Delivered brand messaging and marketing strategy",
+      "Developed app release strategy with VR team",
+      "Coordinated global PR campaign with key stakeholders",
+      "Created case study web page for award and festival submissions",
+    ],
+  },
+  {
+    heading: "Digital Twin Awards 2021-2023",
+    description:
+      "Conceptualised and managed Digital Twin Awards for industry providers with Matterport. Achieved a 50% YoY increase in participants from countries around the world.",
+    items: [
+      "Built Digital Twin Awards website and set-up management platform",
+      "Delivered communications and marketing strategy",
+      "Strengthened brand awareness with Matterport partnership",
     ],
   },
 ];
