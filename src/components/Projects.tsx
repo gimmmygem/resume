@@ -9,8 +9,8 @@ const DEFAULT_PROJECTS = [
       "Worked closely with Meta and International Paralympics Committee on Emmy nominated WebVR experience for the Tokyo Paralympic Games. 80,000+ users interacted with the experience with an average session time of over 5 minutes.",
     items: [
       "Research, development and delivery of communications and marketing strategy",
-      "Collaborating with key Meta stakeholders on global marketing campaign",
-      "PR campaign with featured Para athletes",
+      "Coordinated with key Meta stakeholders on global marketing campaign",
+      "PR campaign with featured athletes",
       "Award submissions and materials on behalf of project partners",
     ],
   },
@@ -20,8 +20,8 @@ const DEFAULT_PROJECTS = [
       "Lead producer for cutting-edge WebXR experience with ABC, CSIRO and Bureau of Meterology. Launched alongisde the ABC documentary series 'Big Weather (and how to survive it)'.",
     items: [
       "Project managed and delivered experience with rapid 6 month turnaround",
-      "Assisted spatial development team with client feedback and QA testing",
-      "Worked with lead ABC producers and 35+ scientists on UX narrative and voice-over scripts",
+      "Assisted spatial development team with client feedback and management of QA program",
+      "Coordinated with lead ABC producers and 35+ scientists on UX narrative and voice-over scripts",
       "Created pitching materials to gain internal ABC stakeholder buy-in",
     ],
   },
@@ -32,9 +32,9 @@ const DEFAULT_PROJECTS = [
     items: [
       "Worked closely with Tech Lead and Design Lead on Creator Studio feature development",
       "Created brand and marketing strategy for ARConnect digital twin app",
-      "New pricing system development and implementation",
-      "Increased daily active providers with Hubspot CRM",
-      "Created CAPTUR3D Community Group and built following to 1.5k members",
+      "Effectively communicated complex pricing changes to customers",
+      "Increased daily active providers with targeted email campaigns and webinars",
+      "Created CAPTUR3D Community Group and built following to 1.5k members in 12 months",
     ],
   },
   {
@@ -45,7 +45,7 @@ const DEFAULT_PROJECTS = [
       "Delivered brand messaging and marketing strategy",
       "Developed app release strategy with VR team",
       "Coordinated global PR campaign with key stakeholders",
-      "Created case study web page for award and festival submissions",
+      "Created case study web page that faciliated awards and festival placements",
     ],
   },
   {
