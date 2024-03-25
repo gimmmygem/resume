@@ -12,13 +12,14 @@ type Role = {
 
 export interface Props {
   roles?: Role[];
+  title?: string
 }
 
 export const WorkHistory: React.FC<Props> = (props) => {
   const roles = props.roles || ROLES;
   return (
     <section>
-      <h2>Work History</h2>
+      <h2>{props.title || "Work History"}</h2>
       <div>
         {roles.map((role, i) => (
           <div key={i} className={styles.role}>
