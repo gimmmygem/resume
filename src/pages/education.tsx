@@ -21,7 +21,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Info subtitle="Content & Education Specialist" tagline="Intuitive problem solver and creative thinker — demonstrated success in delivering ground-breaking projects and empowering others to thrive in their work." />
+        <Info subtitle="Content & Education Specialist" tagline="Intuitive problem solver and creative thinker — demonstrated success in delivering ground-breaking projects and empowering others to thrive in their work."/>
         <Skills sections={[
           {
             heading: "Content & Marketing",
@@ -105,7 +105,7 @@ export default function Home() {
             "Supporting other volunteer staff members in their assigned roles",
             "Upholding the expectations, policies and procedures of LSCPH and the Very Special Kids Foundation",
           ],
-        }
+        },
         {
           title: "Lady Somers Camp | Big Camp",
           employer: "Lord Somers Camp and Power House",
@@ -114,9 +114,9 @@ export default function Home() {
           description:
             "Volunteer staff member on a week long camp for 100 young women, female identifying or non-binary youth. The aim of Big Camp is to challenge the perspectives that young people hold about themselves and others.",
           responsibilities: [
-            "Offering support and encouragement to all groupers throughout a diverse range of activities and challenges",
+            "Offering support and encouragement to all groupers during a diverse range of activities and challenges",
             "Performing all assigned tasks within team and reporting to team leader",
-            "Supporting other volunteer staff members in their roles",
+            "Supporting the other 300 volunteer staff members in their roles",
             "Upholding the expectations, policies and procedures of LSCPH",
           ],
         }]} />
