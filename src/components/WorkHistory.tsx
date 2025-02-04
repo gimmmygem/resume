@@ -47,10 +47,27 @@ export const WorkHistory: React.FC<Props> = (props) => {
 
 const ROLES: Role[] = [
   {
+    title: "Digital Content Specialist",
+    employer: "Kinetic IT",
+    start: "April 2024",
+    end: "Present",
+    description:
+      "Leading Kinetic IT's shift to strategic, ABM-driven content marketing to enhance engagement, pipeline growth, and digital performance.",
+    responsibilities: [
+      "Developing and executing a data-driven content strategy to strengthen brand authority and generate high-quality MQLs",
+      "Advising and supporting the Directors of Marketing with targeted content tactics for 1:1 and 1:Few ABM programs",
+      "Working closely with the Campaign Manager and Brand Specialist to generate effective campaign materials",
+      "Creating and delivering multi-channel content—including social media, LinkedIn ads, blogs and sales collateral",
+      "Leading SEO and web content modernisation, managing external agency relationship",
+      "Collaborating with account directors and subject matter experts to craft impactful case studies and thought leadership",
+      "Supporting partnership, sponsorship, and DEI community initiatives to amplify brand impact",
+    ],
+  },
+  {
     title: "Web Designer (Contract)",
     employer: "Avivo Australia",
     start: "Dec 2023",
-    end: "Feb 2024",
+    end: "March 2024",
     description:
       "Contracted to deliver a new website for Avivo Elite Tutoring using Wordpress CMS.",
     responsibilities: [
