@@ -52,15 +52,15 @@ const ROLES: Role[] = [
     start: "April 2024",
     end: "Present",
     description:
-      "Leading Kinetic IT's shift to strategic, ABM-driven content marketing to enhance engagement, pipeline growth, and digital performance.",
+      "Leading Kinetic IT's shift to strategic, account-based content marketing — creating opportunities, enhancing customer relationships and driving growth.",
     responsibilities: [
-      "Developing and executing a data-driven content strategy to strengthen brand authority and generate high-quality MQLs",
-      "Advising and supporting the Directors of Marketing with targeted content tactics for 1:1 and 1:Few ABM programs",
-      "Working closely with the Campaign Manager and Brand Specialist to generate effective campaign materials",
-      "Creating and delivering multi-channel content—including social media, LinkedIn ads, blogs and sales collateral",
+      "Developing and executing content strategies to strengthen brand authority and nurture MQLs",
+      "Supporting Marketing Directors with targeted content tactics for 1:1 and 1:Few ABM programs",
+      "Working with Campaign and Brand Specialists to generate end-to-end campaigns",
+      "Delivering multi-channel content — including socials, LinkedIn ads, blogs and sales collateral",
       "Leading SEO and web content modernisation, managing external agency relationship",
-      "Collaborating with account directors and subject matter experts to craft impactful case studies and thought leadership",
-      "Supporting partnership, sponsorship, and DEI community initiatives to amplify brand impact",
+      "Collaborating with account directors and IT experts to craft detailed case studies",
+      "Amplifying partnership, sponsorship, and DEI community initiatives",
     ],
   },
   {
